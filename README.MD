@@ -9,4 +9,7 @@ Sem dúvidas frameworks são uma mão na roda e com certeza aumentam bastante no
 Esse código foi baseado na aula do professor Erick Wendel, então dá uma olhada <a href='https://www.youtube.com/watch?v=NxHY14rMPvc'>aqui</a>, o cara é brabo.
 
 # Explicando a API
+
+A API utiliza de padrões já conhecidos como factory functions, entities, services, etc. 
+
 [Coming soon...]
