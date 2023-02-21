@@ -4,11 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "sh ./scripts/routesrequests.sh",
+    "test": "sh ./scripts/tests.sh",
     "start": "node index.js",
     "dev": "npx nodemon index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["javascript", "rest", "api"],
+  "author": "iamthepoe",
   "license": "ISC"
 }
